@@ -24,9 +24,3 @@ using the Figma website.
 + [ImageColorPicker](https://imagecolorpicker.com/)
 
 ---
-
-> ### `ScreenShoot`
-
-![alt text](cmdScreen.png)
-
----
